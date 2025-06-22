@@ -1,0 +1,9 @@
+selenium
+beautifulsoup4
+lxml
+pandas
+statsmodels
+matplotlib
+requests
+undetected_chromedriver
+yfinance
